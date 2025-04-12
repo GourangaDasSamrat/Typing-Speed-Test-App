@@ -2,7 +2,7 @@
 
 Hi there 👋, I'm Gouranga Das Samrat, a frontend web developer, and this is my Typing Speed Test web application! This project helps you test and improve your typing speed with different modes. Give it a try! 😄
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Not%20Available-red)](https://your-live-demo-url-here.com)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Not%20Available-red)](https://typingspeedtestapp.netlify.app/)
 
 ## Features ✨
 
