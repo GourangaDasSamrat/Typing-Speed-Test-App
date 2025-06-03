@@ -266,22 +266,72 @@ If you find this project helpful, please consider giving it a ⭐ star on GitHub
 
 ## 📂 Project Structure
 
-```bash
-typing-speed-test/
-├── css/
-│   ├── all.min.css      # Font Awesome styles
-│   ├── loader.css       # Loading animations
-│   └── style.css        # Main stylesheet
-├── images/
-│   ├── bg-left.png      # Background assets
-│   ├── bg-right.png
-│   ├── favicon.png
-│   └── stars.png
-├── js/
-│   └── script.js        # Core application logic
-├── webfonts/           # Font Awesome webfonts
-└── index.html          # Main HTML file
-```
+<div align="center">
+
+### 🗂️ Directory Layout
+
+<table>
+<tr>
+    <td align="center">📁 Root</td>
+    <td>
+        <code>index.html</code> - Main entry point<br>
+        <code>LICENSE</code> - MIT License file<br>
+        <code>README.md</code> - Documentation
+    </td>
+</tr>
+<tr>
+    <td align="center">🎨 <code>css/</code></td>
+    <td>
+        <code>style.css</code> - Custom styling<br>
+        <code>loader.css</code> - Loading animations<br>
+        <code>all.min.css</code> - Font Awesome styles
+    </td>
+</tr>
+<tr>
+    <td align="center">🖼️ <code>images/</code></td>
+    <td>
+        <code>favicon.png</code> - Site favicon<br>
+        <code>bg-left.png</code> - Left background<br>
+        <code>bg-right.png</code> - Right background<br>
+        <code>stars.png</code> - Stars decoration
+    </td>
+</tr>
+<tr>
+    <td align="center">⚙️ <code>js/</code></td>
+    <td>
+        <code>script.js</code> - Core application logic<br>
+        • Game mechanics<br>
+        • Timer functionality<br>
+        • Statistics calculation
+    </td>
+</tr>
+<tr>
+    <td align="center">📝 <code>webfonts/</code></td>
+    <td>
+        Font Awesome icon fonts:<br>
+        • Regular, Solid, Brands variants<br>
+        • WOFF2 & TTF formats<br>
+        • V4 compatibility files
+    </td>
+</tr>
+</table>
+
+<details>
+<summary>📊 File Count Statistics</summary>
+
+| Category      | Count        |
+| ------------- | ------------ |
+| HTML          | 1 file       |
+| CSS           | 3 files      |
+| JavaScript    | 1 file       |
+| Images        | 4 files      |
+| Fonts         | 8 files      |
+| Documentation | 2 files      |
+| **Total**     | **19 files** |
+
+</details>
+
+</div>
 
 ## 📊 Performance
 
