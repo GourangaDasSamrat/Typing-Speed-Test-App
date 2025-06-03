@@ -1,10 +1,14 @@
 <!-- filepath: /home/user/Desktop/Code-Play-Ground/Typing-Speed-Test-App/README.md -->
 
-<p align="center">
-  <img src="https://i.imgur.com/1Q9Z1Zm.png" alt="Type Master Banner" width="100%" style="border-radius: 12px; box-shadow: 0 4px 24px #ccc; margin-bottom: 24px;"/>
-</p>
+<div align="center">
 
-<h1 align="center">⌨️ <b>Type Master</b> — Typing Speed Test App</h1>
+# ⌨️ Type Master
+
+### _Your Gateway to Lightning-Fast Typing_
+
+_A modern, elegant typing speed test application designed to enhance your typing prowess_
+
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="MIT License"/>
@@ -25,71 +29,35 @@
 
 ---
 
-## 📑 Table of Contents
-
-<details open>
-<summary>🔎 <b>Quick Navigation</b></summary>
-
-- [✨ Features](#-features)
-- [🛠️ Tech Stack](#-tech-stack)
-- [🚀 Getting Started](#-getting-started)
-- [⚡ Quick Start](#-quick-start)
-- [📂 Project Structure](#-project-structure)
-- [📊 Performance](#-performance)
-- [🤝 Contributing](#-contributing)
-- [📜 License](#-license)
-- [👤 Author & Contact](#-author--contact)
-- [❤️ Support & Feedback](#-support--feedback)
-- [🎥 Demo](#-demo)
-
-</details>
-
----
-
-## ✨ Features
+## 📑 Navigation
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
-<h3>🕒 Time Modes</h3>
-<ul>
-<li>⚡ 1 Minute Challenge</li>
-<li>🏃 2 Minutes Extended</li>
-<li>🎯 3 Minutes Pro</li>
-<li>♾️ Infinity Mode</li>
-</ul>
-</td>
-<td align="center" width="25%">
-<h3>📊 Statistics</h3>
-<ul>
-<li>📝 Words Per Minute (WPM)</li>
-<li>⌨️ Characters Per Minute</li>
-<li>🎯 Accuracy %</li>
-<li>📈 Error Rate Tracking</li>
-</ul>
-</td>
-<td align="center" width="25%">
-<h3>🎨 UI/UX</h3>
-<ul>
-<li>🖥️ Clean, Modern Design</li>
-<li>📱 Mobile Responsive</li>
-<li>⚡ Real-time Feedback</li>
-<li>📊 Progress Visualization</li>
-</ul>
-</td>
-<td align="center" width="25%">
-<h3>🔥 Special</h3>
-<ul>
-<li>🌙 Dark/Light Modes</li>
-<li>💾 Progress Saving</li>
-<li>🏆 Achievements</li>
-<li>📈 Performance History</li>
-</ul>
-</td>
-</tr>
-</table>
+[✨ Features](#-features) •
+[🛠️ Tech Stack](#-tech-stack) •
+[🚀 Getting Started](#-getting-started) •
+[⚡ Quick Start](#-quick-start) •
+[📂 Project Structure](#-project-structure) •
+[📊 Performance](#-performance) •
+[🤝 Contributing](#-contributing) •
+[📜 License](#-license)
+
+</div>
+
+---
+
+## ✨ Key Features
+
+<div class="feature-grid" align="center">
+
+|   🕒 **Time Modes**   |  📊 **Statistics**   |     🎨 **UI/UX**     | 🔥 **Special Features** |
+| :-------------------: | :------------------: | :------------------: | :---------------------: |
+| ⚡ 1 Minute Challenge | 📝 Words Per Minute  |   🖥️ Modern Design   |  🌙 Dark/Light Themes   |
+| 🏃 2 Minutes Extended | ⌨️ Characters/Minute | 📱 Responsive Layout |  💾 Progress Tracking   |
+|   🎯 3 Minutes Pro    | 🎯 Accuracy Metrics  | ⚡ Real-time Updates |  🏆 Achievement System  |
+|   ♾️ Infinity Mode    |  📈 Error Analysis   | 📊 Visual Statistics | 📈 Performance History  |
+
+</div>
 
 </div>
 
