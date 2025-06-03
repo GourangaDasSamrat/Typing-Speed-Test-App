@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://i.postimg.cc/L8k3TyQ4/logo.png" alt="Typing Speed Test" width="200"/>
+<h1>⌨️ Type Master</h1>
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://choosealicense.com/licenses/mit/)
 [![Made with JavaScript](https://img.shields.io/badge/Made%20with-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
